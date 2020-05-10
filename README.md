@@ -23,7 +23,7 @@ By mounting servo motors on the arm and attaching them to the ends of the string
 # Putting it Together
 After attaching our hand with our raspberry pi brain, we added a speaker to allow it to say rock paper scissors as it plays. Here's a working video of it after being all put together:
 
-![[The finished product!](https://player.vimeo.com/video/334271632)](https://i.vimeocdn.com/video/780505125.webp?mw=500&mh=889)
+[![The finished product!](https://i.vimeocdn.com/video/780505125.webp?mw=500&mh=889)](https://player.vimeo.com/video/334271632)
 
 # Results
 We won the programming category, engineering category, the most votes overall, and 1st place overall and won a total of $40! It was also posted on Twitter and Reddit racking up views and upvotes there. We even had the [World Rock Paper Scissors Association](https://www.wrpsa.com/) ask us if they could use our video for ‘training purposes’.
